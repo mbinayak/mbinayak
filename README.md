@@ -1,6 +1,6 @@
-<!-- - 👋 Hi, I’m Binayak
+- 👋 Hi, I’m Binayak
 - 👀 I’m interested in Building Awesome products and platforms
-- 🌱 I’m currently learning AI
+<!-- - 🌱 I’m currently learning AI
 - 💞️ I’m looking to collaborate on Cloud infrastructure automation
 - 📫 Reach me: mbinayak@ymail.com
  -->
